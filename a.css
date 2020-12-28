@@ -3048,8 +3048,7 @@ code {
 }
 .isMentioned-N-h9aa .markup-2BOw-j .mention {
     padding: 0;
-    background: transparent !important;
-    color: var(--main-color);
+    color: rgba(0, 255, 0, 1.0);
     transition: all 0.1s ease-in-out;
 }
 .isMentioned-N-h9aa .markup-2BOw-j .mention:hover {
@@ -3057,7 +3056,7 @@ code {
     text-decoration: none !important;
 }
 .isMentioned-N-h9aa .markup-2BOw-j .mention:hover {
-    color: var(--main-color);
+    color: rgba(0, 255, 0, 1.0);
 }
 .wrapper-3WhCwL {
     color: var(--main-color);
