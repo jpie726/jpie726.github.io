@@ -3032,8 +3032,8 @@ code {
 }
 .topic-TCb_qw .wrapper-3WhCwL,
 .markup-2BOw-j .wrapper-3WhCwL {
-    background: rgba(255, 255, 255, 0.04);
-    color: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 0, 0, 1.0);
+    color: rgba(0, 255, 0, 1.0);
 }
 .topic-TCb_qw .wrapper-3WhCwL:hover,
 .markup-2BOw-j .wrapper-3WhCwL:hover {
@@ -8786,7 +8786,7 @@ textarea::-webkit-scrollbar {
 }
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z,
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-    background-color: rgba(255, 255, 255, 1.0);
+    background-color: rgba(255, 255, 255, 0.08);
 }
 .theme-dark .mentioned-xhSam7 .mention.interactive:hover {
     color: var(--hover-color);
