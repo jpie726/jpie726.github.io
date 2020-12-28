@@ -3065,7 +3065,7 @@ code {
 .wrapper-3WhCwL:hover {
     background-color: var(--main-color);
 }
-.contents-2mQqc9 .spoilerText-3p6IlD {
+.contents-2mQqc9 .spoilerText-3p6IlD .mention wrapper-3WhCwL {
     background: rgba(255, 255, 255, 0.1);
     transition: all 0.15s ease-in-out;
 }
@@ -8786,7 +8786,7 @@ textarea::-webkit-scrollbar {
 }
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z,
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: rgba(255, 255, 255, 1.0);
 }
 .theme-dark .mentioned-xhSam7 .mention.interactive:hover {
     color: var(--hover-color);
