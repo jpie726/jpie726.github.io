@@ -3066,7 +3066,7 @@ code {
     background-color: var(--main-color);
 }
 .contents-2mQqc9 .spoilerText-3p6IlD {
-    background: rgba(255, 255, 255, 1.0);
+    background: rgba(255, 255, 255, 0.1);
     transition: all 0.15s ease-in-out;
 }
 .contents-2mQqc9 .spoilerText-3p6IlD > .inlineContent-3ZjPuv {
@@ -3391,9 +3391,12 @@ code {
     border: 1px solid;
     border-radius: 6px;
     margin-left: 8px;
-    background-color: rgba(255, 255, 255, 0.07);
+    background-color: rgba(255, 255, 255, 1.0);
     font-size: 10px;
     padding: 0 5px;
+}
+.contents-2mQqc9 > img[src*="468241408348782603"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+    content: "CV Configurator";
 }
 .contents-2mQqc9 > img[src*="194151269399527425"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
     content: "CV Admin";
