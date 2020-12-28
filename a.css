@@ -3066,7 +3066,7 @@ code {
     background-color: var(--main-color);
 }
 .contents-2mQqc9 .spoilerText-3p6IlD {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 1.0);
     transition: all 0.15s ease-in-out;
 }
 .contents-2mQqc9 .spoilerText-3p6IlD > .inlineContent-3ZjPuv {
